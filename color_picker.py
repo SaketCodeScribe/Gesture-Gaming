@@ -1,7 +1,7 @@
 '''
 
 @author: Saket Suman
-@description: Create the masking of your object.
+@description: Create a masking of your object.
 @Reference: https://pysource.com/2018/01/31/object-detection-using-hsv-color-space-opencv-3-4-with-python-3-tutorial-9/
 
 '''
